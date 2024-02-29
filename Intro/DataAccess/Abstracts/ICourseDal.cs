@@ -13,7 +13,4 @@ public interface ICourseDal
 
     void Add(Course course);
 
-    //void Delete(int id);
-
-    //void Update(Course course);
 }
